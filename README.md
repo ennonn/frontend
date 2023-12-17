@@ -16,6 +16,8 @@ vue create my-vue-project
 ### Copy and Replace these following:
 ```public
 ```
+### ---
+
 ```src
 ```
 
